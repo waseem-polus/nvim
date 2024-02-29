@@ -50,7 +50,7 @@ Clone kickstart.nvim:
 <details><summary> Linux and Mac </summary>
 
 ```sh
-git clone https://https://github.com/waseem-polus/waseem.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+git clone https://github.com/waseem-polus/waseem.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
 ```
 
 </details>
@@ -60,13 +60,13 @@ git clone https://https://github.com/waseem-polus/waseem.nvim.git "${XDG_CONFIG_
 If you're using `cmd.exe`:
 
 ```
-git clone https://https://github.com/waseem-polus/waseem.nvim.git %userprofile%\AppData\Local\nvim\
+git clone https://github.com/waseem-polus/waseem.nvim.git %userprofile%\AppData\Local\nvim\
 ```
 
 If you're using `powershell.exe`
 
 ```
-git clone https://https://github.com/waseem-polus/waseem.nvim.git $env:USERPROFILE\AppData\Local\nvim\
+git clone https://github.com/waseem-polus/waseem.nvim.git $env:USERPROFILE\AppData\Local\nvim\
 ```
 
 </details>
