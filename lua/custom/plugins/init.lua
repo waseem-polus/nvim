@@ -1,3 +1,3 @@
-vim.keymap.set('n', '<leader>mm', vim.cmd.Ex)
+vim.keymap.set("n", "<leader>mm", ":Ex<CR>")
 
 return {}
