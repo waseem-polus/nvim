@@ -161,6 +161,17 @@ return {
           cmd = { 'bash-language-server' },
           filetypes = { 'bash' },
         },
+        pylsp = {
+          cmd = { 'pylsp' },
+          filetypes = { 'python' },
+          pylsp = {
+            plugins = {
+              flake8 = {
+                maxLineLength = 120,
+              },
+            },
+          },
+        },
         lua_ls = {
           -- cmd = {...},
           -- filetypes { ...},
